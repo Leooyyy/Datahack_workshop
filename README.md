@@ -1,2 +1,2 @@
-# Datahack
- The Datahack workshop
+# datahack
+ 
